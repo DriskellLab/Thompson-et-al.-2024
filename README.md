@@ -7,6 +7,7 @@ attached base packages:
 [7] datasets  methods   base     
 
 other attached packages:
+
  [1] EnsDb.Mmusculus.v79_2.99.0  ensembldb_2.20.2           
  [3] AnnotationFilter_1.20.0     GenomicFeatures_1.48.3     
  [5] AnnotationDbi_1.58.0        Signac_1.7.0               
