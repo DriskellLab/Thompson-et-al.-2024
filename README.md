@@ -1,7 +1,7 @@
 All scRNA-seq datasets are publicly query-able using our webtools on skinregeneration.org.
 Raw and processed data files utilized in this study are publicly available at NCBI GEO.
 
-Previously-published datasets re-analyzed in this study: Glover et al., 2023 (doi.org/10.1016/j.cell.2023.01.015), Cheng et al., 2018 (doi.org/10.1016/j.celrep.2018.09.006), Solé-Boldo et al., 2020 (doi.org/10.1038/s42003-020-0922-4), Thompson et al., 2022 (doi.org/10.1016/j.jid.2021.11.032), Phan et al., 2020 (doi.org/10.7554/eLife.60066), and Liu et al., 2022 (doi.org/10.1016/j.devcel.2022.06.005).
+Previously-published datasets re-analyzed in this study: Glover et al., 2023 (doi.org/10.1016/j.cell.2023.01.015), Cheng et al., 2018 (doi.org/10.1016/j.celrep.2018.09.006), Solé-Boldo et al., 2020 (doi.org/10.1038/s42003-020-0922-4), Thompson et al., 2022 (doi.org/10.1016/j.jid.2021.11.032), Phan et al., 2020 (doi.org/10.7554/eLife.60066), and Liu et al., 2022 (doi.org/10.1016/j.devcel.2022.06.005). For NCBI GEO accession numbers for the samples we re-analyzed, see the file "Re-analyzed Dataset Source Table.xlsx" available in this repository.
 
 Source code for creation of Thompson et al., 2022's P0 Mouse Seurat object can be found in our prevously published Github page: https://github.com/DriskellLab/Thompson-et-al.-2021.
 
